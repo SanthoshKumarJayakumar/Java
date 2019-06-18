@@ -15,8 +15,6 @@ public class RepeatWordRemoval {
 				}
 			}
 			System.out.println(s1);
-			d.close();
-			
+			d.close();	
 		}
-
 }
